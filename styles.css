@@ -32,4 +32,9 @@ main{
     width: 15vw;
     max-height: 110px;
     max-width: 110px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.carta:hover{
+    border: 5px dotted black;
 }
